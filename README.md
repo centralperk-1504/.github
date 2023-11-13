@@ -1,2 +1,1 @@
-# .github
-Repository for the public README of our organization. 
+Repository for the public README of our organization.
