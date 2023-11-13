@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+This is Central Perk organization! 
+
+Cheers from Max, Mich and Pino
 <!--
 
 **Here are some ideas to get you started:**
